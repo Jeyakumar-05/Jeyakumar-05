@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Jey
 
-🚀 Full-Stack Developer  
-I build modern, scalable web applications and love working on real-time systems.  
-Always learning. Always improving.
+🚀 **Full-Stack Developer**  
+I build modern, scalable web applications with a strong focus on real-time systems and clean architecture.  
+Always learning. Always building.
 
 ---
 
 ## 🧠 About Me
 
 - 💻 Passionate about full-stack web development
-- ⚡ Interested in real-time apps, chat systems, and clean architecture
-- 🌱 Constantly learning new technologies
-- 🎯 Focused on writing clean, maintainable code
+- ⚡ Enjoy building real-time applications and chat systems
+- 🌱 Continuously learning new tools and technologies
+- 🎯 Focused on writing clean, scalable, and maintainable code
 
 ---
 
@@ -46,10 +46,10 @@ Always learning. Always improving.
   A real-time communication application that enables users to exchange messages instantly over the internet.
 
 - 🐶 **Pet Adoption Platform**  
-  A web application that connects pets with potential adopters through an online system.
+  A web application that connects pets with potential adopters through an online platform.
 
 - 💰 **Budget Management System**  
-  An application designed to help users track income and expenses for better financial management.
+  An application designed to help users track income and expenses for effective financial management.
 
 ---
 
@@ -57,8 +57,8 @@ Always learning. Always improving.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jeyakumar-s-092997274/
 - 📧 Email: jeyakumar1442@gmail.com
-- 🌐 Portfolio: https://yourwebsite.com](https://jeys-portfolio-react.vercel.app/
+- 🌐 Portfolio: https://jeys-portfolio-react.vercel.app/
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+⭐ If you find my work interesting, feel free to explore and star my repositories!
