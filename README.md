@@ -43,13 +43,13 @@ Always learning. Always improving.
 ## 🚀 Projects
 
 - 💬 **Chat Application**  
-  Real-time chat app with unread message counts and socket support
+  A real-time communication application that enables users to exchange messages instantly over the internet.
 
-- 🐶 **Pet Adoption Platform**
-A web application that connects pets with loving homes.
+- 🐶 **Pet Adoption Platform**  
+  A web application that connects pets with potential adopters through an online system.
 
-- 🔐 **Auth System**  
-  Secure login & authentication using JWT and cookies
+- 💰 **Budget Management System**  
+  An application designed to help users track income and expenses for better financial management.
 
 ---
 
